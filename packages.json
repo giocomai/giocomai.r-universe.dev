@@ -20,6 +20,10 @@
     "url": "https://github.com/giocomai/latlon2map"
   },
   {
+    "package": "cornucopia",
+    "url": "https://github.com/giocomai/cornucopia/"
+  },
+  {
     "package": "zoteror",
     "url": "https://github.com/giocomai/zoteror"
   },

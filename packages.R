@@ -5,6 +5,7 @@ packages_df <- tibble::tribble(
   "rbackupr", "https://github.com/giocomai/rbackupr",
   "nomnomlgraph", "https://github.com/giocomai/nomnomlgraph",
   "latlon2map", "https://github.com/giocomai/latlon2map",
+  "cornucopia", "https://github.com/giocomai/cornucopia/",
   # api wrappers
   "zoteror", "https://github.com/giocomai/zoteror",
   "plausibler", "https://github.com/giocomai/plausibler",

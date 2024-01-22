@@ -1,0 +1,34 @@
+[
+  {
+    "package": "ganttrify",
+    "url": "https://github.com/giocomai/ganttrify"
+  },
+  {
+    "package": "castarter",
+    "url": "https://github.com/giocomai/castarter"
+  },
+  {
+    "package": "rbackupr",
+    "url": "https://github.com/giocomai/rbackupr"
+  },
+  {
+    "package": "nomnomlgraph",
+    "url": "https://github.com/giocomai/nomnomlgraph"
+  },
+  {
+    "package": "latlon2map",
+    "url": "https://github.com/giocomai/latlon2map"
+  },
+  {
+    "package": "zoteror",
+    "url": "https://github.com/giocomai/zoteror"
+  },
+  {
+    "package": "plausibler",
+    "url": "https://github.com/giocomai/plausibler"
+  },
+  {
+    "package": "huecontroller",
+    "url": "https://github.com/giocomai/huecontroller"
+  }
+]

@@ -34,5 +34,9 @@
   {
     "package": "huecontroller",
     "url": "https://github.com/giocomai/huecontroller"
+  },
+  {
+    "package": "ytdlpr",
+    "url": "https://github.com/giocomai/ytdlpr"
   }
 ]

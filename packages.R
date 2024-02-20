@@ -9,7 +9,9 @@ packages_df <- tibble::tribble(
   # api wrappers
   "zoteror", "https://github.com/giocomai/zoteror",
   "plausibler", "https://github.com/giocomai/plausibler",
-  "huecontroller", "https://github.com/giocomai/huecontroller"
+  "huecontroller", "https://github.com/giocomai/huecontroller",
+  # wrappers for command line tools
+  "ytdlpr", "https://github.com/giocomai/ytdlpr"
 )
 
 jsonlite::write_json(packages_df,

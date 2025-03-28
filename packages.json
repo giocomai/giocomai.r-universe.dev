@@ -24,6 +24,10 @@
     "url": "https://github.com/giocomai/cornucopia/"
   },
   {
+    "package": "quackingllama",
+    "url": "https://github.com/giocomai/quackingllama"
+  },
+  {
     "package": "zoteror",
     "url": "https://github.com/giocomai/zoteror"
   },
